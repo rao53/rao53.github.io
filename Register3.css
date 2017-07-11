@@ -1,0 +1,21 @@
+h4{
+	font-weight: normal;
+}
+
+.middle{
+	text-align: center; 
+}
+
+#checkbox2{
+	margin-left: 0.000006px;
+}
+
+#checkbox1{
+	border-radius: 20px;
+}
+
+#firstname{
+	margin-top: 20px;
+	border-radius: 20px;
+	width: 100px;
+}
